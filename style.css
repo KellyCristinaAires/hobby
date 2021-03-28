@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+body{
+
+
+
+    font-size:18 px;
+    
+    word-spacing: 30 px;
+    text-align: center;
+    
+}
+
+p{
+
+    font-size: 26px;
+    font-family: fantasy;
+    
+}
+.conteiner{
+    font-weight: normal;
+}
+.destacado{
+font-size: 20px;
+}
+.esclusivo{
+    font-family: cursive;
+}
+p.esclusivo{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: Roboto, bold;
+    
+}
+.preferida{
+    font-family: dancing  script,Helvetica Neue'
+
+}
+#fotoH1{
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 0 3px 6px red;
+}
+#foto2{
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 0 3px 6px red;
+}
+
+#foto3{
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 0 3px 6px red;
+}  
